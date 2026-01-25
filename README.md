@@ -7,6 +7,10 @@ https://github.com/Reavenous/Map_Generator
 https://github.com/Reavenous/Library_database
 
 ## Projekt s P2P
+### Osobní
 https://github.com/Reavenous/Banking_system.git
+
+### Sdílený
+https://github.com/M1CH4L69/P2P_Bank_Node
 
 Alexandre Basseville C4b
