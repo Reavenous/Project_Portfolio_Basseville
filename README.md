@@ -13,8 +13,8 @@ https://github.com/Reavenous/Banking_system.git
 ### Sdílený
 https://github.com/M1CH4L69/P2P_Bank_Node
 
-Alexandre Basseville C4b
-
 
 ## Projekt s AI/ML
 https://github.com/Reavenous/AirCommand
+
+Alexandre Basseville C4b
