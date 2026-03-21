@@ -15,6 +15,6 @@ https://github.com/M1CH4L69/P2P_Bank_Node
 
 
 ## Projekt s AI/ML
-https://github.com/Reavenous/TypeSentinel
+https://github.com/Reavenous/HitMaker
 
 Alexandre Basseville C4b
