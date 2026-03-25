@@ -15,6 +15,7 @@ https://github.com/M1CH4L69/P2P_Bank_Node
 
 
 ## Projekt s AI/ML
-https://github.com/Reavenous/HitMaker
+https://github.com/Reavenous/TopoWeather
+
 
 Alexandre Basseville C4b
