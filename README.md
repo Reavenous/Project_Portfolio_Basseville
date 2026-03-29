@@ -15,7 +15,8 @@ https://github.com/M1CH4L69/P2P_Bank_Node
 
 
 ## Projekt s AI/ML
-https://github.com/Reavenous/TopoWeather
+https://github.com/Reavenous/FireWatch
+
 
 
 Alexandre Basseville C4b
